@@ -12,9 +12,9 @@
 - Technical Leadership: Engineering Management, Agile Software Development, Cross-functional Collaboration, Systems Design
 - Technical skills: Design Patterns, Multithreaded Programming, Reactive Programming, Functional Programming
 - Software Architecture:  Domain-Driven Design (DDD), Event Sourcing and CQRS, Distributed Systems, API design
-- Backend Development: Kotlin, Java, C++, Spring Framework, REST APIs, gRPC and Websocket, Serverless Architectures
+- Backend Development: Kotlin, Java, C++, Spring Framework, Lambda, REST APIs, gRPC, Websocket
 - Frontend Development: JavaScript, TypeScript, React.js, Redux, Next.js, HTML, CSS and Tailwind CSS 
-- Databases & Data Management: Data Modeling, SQL, PostgreSQL, MongoDB, Redis, Amazon Dynamodb, Cassandra, Apache Kafka, RabbitMQ
+- Databases & Data Management: Data Modeling, SQL, PostgreSQL, MongoDB, Redis, Dynamodb, Cassandra, Kafka, RabbitMQ
 - Cloud & DevOps: AWS, Kubernetes, Terraform, Docker, CI/CD, ELK stack, Prometheus
 
 Feel free to explore my repositories and star your favorites! 🌟
