@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 Skilled software engineer specializing in creating efficient and scalable back-end systems
-- 🔭 Right now I am working as Engineering Manager at [Miro](https://miro.com/), leading the [Developer Platform API](https://developers.miro.com/reference/api-reference) developement
+- 🔭 Right now I am working as Engineering Manager at [Miro](https://miro.com/), leading the [Developer Platform API](https://developers.miro.com/reference/api-reference) development
 - 📖 I’m currently learning more about mobile development, exploring cross-platform solutions
 - 💬 Ask me about software architecture, engineering management, and agile methodologies
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/asmartishin)
@@ -12,7 +12,7 @@
 - Technical Leadership: Engineering Management, Agile Software Development, Cross-functional Collaboration, Systems Design
 - Technical skills: Design Patterns, Multithreaded Programming, Reactive Programming, Functional Programming
 - Software Architecture:  Domain-Driven Design (DDD), Event Sourcing and CQRS, Distributed Systems, API design
-- Backend Development: Kotlin, Java, C++, Spring Framework, Lambda, REST APIs, gRPC, Websocket
+- Backend Development: Kotlin, Java, C++, Spring Framework, Vert.x, Axon Framework, Serverless, REST APIs, gRPC, Websocket
 - Frontend Development: JavaScript, TypeScript, React.js, Redux, Next.js, HTML, CSS and Tailwind CSS 
 - Databases & Data Management: Data Modeling, SQL, PostgreSQL, MongoDB, Redis, Dynamodb, Cassandra, Kafka, RabbitMQ
 - Cloud & DevOps: AWS, Kubernetes, Terraform, Docker, CI/CD, ELK stack, Prometheus
