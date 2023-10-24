@@ -1,7 +1,7 @@
 # Hello, I'm Alex Martishin! 👋
 
 ## 🚀 About Me
-- 🎓 Skilled software developer specializing in creating efficient and scalable back-end systems
+- 🎓 Skilled software engineer specializing in creating efficient and scalable back-end systems
 - 🔭 Right now I am working as Engineering Manager at [Miro](https://miro.com/), leading the [Developer Platform API](https://developers.miro.com/reference/api-reference) developement
 - 📖 I’m currently learning more about mobile and frontend development, diving into modern frameworks, and exploring cross-platform solutions
 - 👯 Keen to collaborate on open-source projects related to distributed systems and reactive programming, aiming to contribute and learn with the community
