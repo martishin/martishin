@@ -18,8 +18,6 @@
 - Cloud & DevOps: AWS, Kubernetes, Terraform, Docker, CI/CD, ELK stack, Prometheus
 - Testing: Unit Testing, Integration Testing, Test Driven Development (TDD)
 
-Feel free to explore my repositories and star your favorites! 🌟
-
 
 <!--
 **ttymonkey/ttymonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
