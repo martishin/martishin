@@ -14,7 +14,7 @@
 - Software Architecture:  Domain-Driven Design (DDD), Event Sourcing and CQRS, Distributed Systems, Microservices, API Design
 - Backend Development: Kotlin, Java, C++, Spring Framework, Vert.x, Axon Framework, Serverless, REST APIs, gRPC, GraphQL, Websocket
 - Frontend Development: JavaScript, TypeScript, React.js, Redux, Next.js, HTML, CSS and Tailwind CSS 
-- Data Management: Data Modeling, SQL, PostgreSQL, MongoDB, Redis, Dynamodb, Cassandra, Kafka, RabbitMQ, Hazelcast
+- Data Management: Data Modeling, SQL, PostgreSQL, MongoDB, Redis, Dynamodb, Cassandra, Kafka, RabbitMQ, Hazelcast, ZooKeeper, ClickHouse
 - Cloud & DevOps: AWS, Kubernetes, Terraform, Docker, CI/CD, ELK stack, Prometheus
 - Testing: Unit Testing, Integration Testing, Test Driven Development (TDD)
 
