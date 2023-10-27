@@ -6,7 +6,7 @@
 - 📖 I’m currently learning more about mobile development, exploring cross-platform solutions
 - 💬 Ask me about software architecture, engineering management, and agile methodologies
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/asmartishin)
-- 🐶 Fun Fact: I have a corgi dog named Charlie
+- 🐶 Fun Fact: I have a corgi named Charlie
 
 ## 🔧 Skills
 - Technical Leadership: Engineering Management, Agile Software Development, Cross-functional Collaboration, Systems Design
