@@ -3,7 +3,6 @@
 ## 🚀 About Me
 - 🎓 Skilled software engineer specializing in creating efficient and scalable back-end systems
 - 🔭 Right now I am working as Engineering Manager at [Miro](https://miro.com/), leading the [Developer Platform API](https://developers.miro.com/reference/api-reference) development
-- 📖 I’m currently learning more about mobile development, exploring cross-platform solutions
 - 💬 Ask me about software architecture, engineering management, and agile methodologies
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/asmartishin)
 - 🐶 Fun Fact: I own a corgi named Charlie
