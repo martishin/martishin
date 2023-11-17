@@ -8,7 +8,7 @@
 ## 🔧 Skills
 - Technical Leadership: Engineering Management, Agile Software Development, Cross-functional Collaboration, Systems Design
 - Technical skills: OOP, Design Patterns, Multithreaded Programming, Reactive Programming, Functional Programming
-- Software Architecture:  Domain-Driven Design (DDD), Event Sourcing and CQRS, Distributed Systems, Microservices, API Design
+- Software Architecture:  Domain-Driven Design (DDD), Event Sourcing, CQRS, Distributed Systems, Microservices, API Design
 - Backend Development: Kotlin, Java, C++, Spring Framework, Vert.x, Axon Framework, Serverless, REST APIs, gRPC, GraphQL, Websocket
 - Frontend Development: JavaScript, TypeScript, React.js, Redux, HTML, CSS and Tailwind CSS 
 - Data Management: Data Modeling, SQL, PostgreSQL, MongoDB, Redis, Dynamodb, Cassandra, Kafka, RabbitMQ, Hazelcast, ZooKeeper, ClickHouse
