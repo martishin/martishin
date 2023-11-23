@@ -5,6 +5,7 @@
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/asmartishin)
 - 🐶 Fun Fact: I own a corgi named Charlie
 
+<!--
 ## 🔧 Skills
 - Technical Leadership: Engineering Management, Agile Software Development, Cross-functional Collaboration, Systems Design
 - Technical skills: OOP, Design Patterns, Multithreaded Programming, Reactive Programming, Functional Programming
