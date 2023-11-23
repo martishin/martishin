@@ -12,6 +12,7 @@
 - Backend Development: Kotlin, Java, C++, Spring Framework, Vert.x, Axon Framework, Serverless, REST APIs, gRPC, GraphQL, Websocket
 - Frontend Development: JavaScript, TypeScript, React.js, Redux, HTML, CSS and Tailwind CSS 
 - Data Management: Data Modeling, SQL, PostgreSQL, MongoDB, Redis, Dynamodb, Cassandra, Kafka, RabbitMQ, Hazelcast, ZooKeeper, ClickHouse
+- Data Science: Python, Pandas, Numpy, SciKit-Learn, TensorFlow
 - Cloud & DevOps: AWS, Kubernetes, Terraform, Docker, CI/CD, ELK stack, Prometheus
 - Testing: Unit Testing, Integration Testing, Test Driven Development (TDD)
 
