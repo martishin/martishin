@@ -1,6 +1,7 @@
 # Hello, I'm Alex Martishin! 👋
-- 🎓 Skilled full-stack software engineer specializing in designing and building distributed systems
-- 🔭 Right now I am working as Engineering Manager at [Miro](https://miro.com/), leading the [Developer Platform API](https://developers.miro.com/reference/api-reference) development
+- 👨‍💻 Skilled full-stack software engineer specializing in designing and building distributed systems
+- 💼 Right now I am working as Engineering Manager at [Miro](https://miro.com/), leading the [Developer Platform API](https://developers.miro.com/reference/api-reference) development
+- 🛠️ Currently I use Kotlin and Go for back-end development, TypeScript for front-end development, and Python for data analysis
 - 💬 Ask me about software architecture, engineering management, and agile methodologies
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/asmartishin)
 - 🐶 Fun Fact: I own a corgi named Charlie
