@@ -4,7 +4,7 @@
 - 🛠️ I use Kotlin and Go for back-end development, TypeScript for front-end development, and Python for data analysis
 - 💬 Ask me about software architecture, engineering management, and agile methodologies
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/asmartishin)
-- 🐶 Fun Fact: I have a dog, a corgi named Charlie
+- 🐶 Fun fact about me: I have a dog, a corgi named Charlie
 
 <!--
 ## 🔧 Skills
