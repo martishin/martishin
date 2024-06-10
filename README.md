@@ -1,5 +1,5 @@
 # Hello, I'm Alex Martishin! 👋
-- 👨‍💻 I am a full-stack software engineer specializing in designing and building distributed systems
+- 👨‍💻 I am an Engineering Manager with a background in distributed systems design
 - 💼 Right now I am working as Engineering Manager at [Miro](https://miro.com/)
 - 🛠️ I use Kotlin and Go for back-end development, TypeScript for front-end development, and Python for data analysis
 - 💬 Ask me about software architecture, engineering management, and agile methodologies
