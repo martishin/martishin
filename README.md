@@ -1,6 +1,6 @@
 # Hello, I'm Alex Martishin! 👋
 - 👨‍💻 I am an Engineering Manager with a background in designing and developing distributed high-load systems and big data processing
-- 💼 Right now I am working at [Miro](https://miro.com/), leading a cross-functional development team
+- 💼 Right now I am working at [Miro](https://miro.com/)
 - 🛠️ I use Kotlin and Go for back-end development, TypeScript for front-end development, and Python for data analysis
 - 💬 Ask me about software architecture, engineering management, and agile methodologies
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/asmartishin)
