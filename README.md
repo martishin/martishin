@@ -1,5 +1,5 @@
 # Hello, I'm Alex Martishin! 👋
-- 👨‍💻 I am an Engineering Manager with a background in designing and developing distributed high-load systems and machine learning
+- 👨‍💻 I am an Engineering Manager with expertise in distributed high-load systems and machine learning
 - 💼 Right now I am living in Amsterdam and working at [Miro](https://miro.com/)
 - 🛠️ I use Kotlin and Go for back-end development, TypeScript for front-end development, and Python with Rust for ML
 - 💬 Ask me about software architecture, engineering management, and agile methodologies
