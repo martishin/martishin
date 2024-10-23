@@ -2,9 +2,8 @@
 - 👨‍💻 I am an Engineering Manager with expertise in distributed high-load systems and machine learning
 - 💼 Right now I am living in Amsterdam and working at [Miro](https://miro.com/)
 - 🛠️ I use Kotlin and Go for back-end development, TypeScript for front-end development, and Python with Rust for ML
-- 💬 Ask me about software architecture, engineering management, and agile methodologies
+- 💬 Open to discuss software architecture and engineering management
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/asmartishin)
-- 🐶 Fun fact about me: I have a dog, a corgi named Charlie
 
 <!--
 ## 🔧 Skills
